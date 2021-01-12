@@ -39,8 +39,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 ## Day 3
 
 ## JavaScript
-- [ ] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the variable that holds the computer choice. 
-- [ ] Display the computer choice to the screen.
+- [x] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the variable that holds the computer choice. 
+- [x] Display the computer choice to the screen.
 - [ ] Write conditional statements that compare the user choice to the computer choice to determine the winner of the game.
 - [ ] Display the winner to the screen.
 - [ ] Clear the input value once a result is displayed.
